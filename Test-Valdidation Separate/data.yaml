@@ -1,0 +1,6 @@
+train: Helmetsandvests\train\images
+val: Helmetsandvests\val\images
+test: Helmetsandvests\test\images
+
+nc: 2 #Number of elements
+names: ["Helmet", "Vest"]
